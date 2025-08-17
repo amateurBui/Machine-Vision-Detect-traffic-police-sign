@@ -9,4 +9,3 @@
 3) Test_police_sign_v2: Use pre-trained model to evaluate real-world quality via web cam
    - Recognize and save landmark coordinates in each frame
    - Every 50 saved frames will be entered into the model and give a prediction of the traffic police signal. However, the self-generated data is not good enough so the model is still Overfitting.
-<img width="749" height="714" alt="Screenshot (36199)" src="https://github.com/user-attachments/assets/5725b332-7d8c-484d-9043-dfacfcc8e096" />
